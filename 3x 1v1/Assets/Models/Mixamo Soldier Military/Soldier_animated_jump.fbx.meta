@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 7cc57541ee2ff6547b7255af6b1fc3ad
+timeCreated: 1530868066
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Plane
+    100002: soldier:Head
+    100004: soldier:HeadTop_End
+    100006: soldier:Hips
+    100008: soldier:LeftArm
+    100010: soldier:LeftFoot
+    100012: soldier:LeftFootToeBase_End
+    100014: soldier:LeftForeArm
+    100016: soldier:LeftHand
+    100018: soldier:LeftHandIndex1
+    100020: soldier:LeftHandIndex2
+    100022: soldier:LeftHandIndex3_End
+    100024: soldier:LeftHandThumb1
+    100026: soldier:LeftHandThumb2_End
+    100028: soldier:LeftInHandThumb
+    100030: soldier:LeftLeg
+    100032: soldier:LeftShoulder
+    100034: soldier:LeftToeBase
+    100036: soldier:LeftUpLeg
+    100038: soldier:Neck
+    100040: soldier:Neck1
+    100042: soldier:RightArm
+    100044: soldier:RightFoot
+    100046: soldier:RightFootToeBase_End
+    100048: soldier:RightForeArm
+    100050: soldier:RightHand
+    100052: soldier:RightHandIndex1
+    100054: soldier:RightHandIndex2
+    100056: soldier:RightHandIndex3_End
+    100058: soldier:RightHandThumb1
+    100060: soldier:RightHandThumb2_End
+    100062: soldier:RightInHandThumb
+    100064: soldier:RightLeg
+    100066: soldier:RightShoulder
+    100068: soldier:RightToeBase
+    100070: soldier:RightUpLeg
+    100072: soldier:Spine
+    100074: soldier:Spine1
+    100076: soldier:Spine2
+    100078: //RootNode
+    100080: soldier_Military_Male_Lod_1
+    400000: Plane
+    400002: soldier:Head
+    400004: soldier:HeadTop_End
+    400006: soldier:Hips
+    400008: soldier:LeftArm
+    400010: soldier:LeftFoot
+    400012: soldier:LeftFootToeBase_End
+    400014: soldier:LeftForeArm
+    400016: soldier:LeftHand
+    400018: soldier:LeftHandIndex1
+    400020: soldier:LeftHandIndex2
+    400022: soldier:LeftHandIndex3_End
+    400024: soldier:LeftHandThumb1
+    400026: soldier:LeftHandThumb2_End
+    400028: soldier:LeftInHandThumb
+    400030: soldier:LeftLeg
+    400032: soldier:LeftShoulder
+    400034: soldier:LeftToeBase
+    400036: soldier:LeftUpLeg
+    400038: soldier:Neck
+    400040: soldier:Neck1
+    400042: soldier:RightArm
+    400044: soldier:RightFoot
+    400046: soldier:RightFootToeBase_End
+    400048: soldier:RightForeArm
+    400050: soldier:RightHand
+    400052: soldier:RightHandIndex1
+    400054: soldier:RightHandIndex2
+    400056: soldier:RightHandIndex3_End
+    400058: soldier:RightHandThumb1
+    400060: soldier:RightHandThumb2_End
+    400062: soldier:RightInHandThumb
+    400064: soldier:RightLeg
+    400066: soldier:RightShoulder
+    400068: soldier:RightToeBase
+    400070: soldier:RightUpLeg
+    400072: soldier:Spine
+    400074: soldier:Spine1
+    400076: soldier:Spine2
+    400078: //RootNode
+    400080: soldier_Military_Male_Lod_1
+    2100000: Casual_Male_Lod_0
+    2100002: PlaneMat
+    2300000: Plane
+    3300000: Plane
+    4300000: soldier_Military_Male_Lod_1
+    4300002: Plane
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: soldier_Military_Male_Lod_1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
